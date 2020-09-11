@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [baseline中的pytorch相关知识](#baseline%E4%B8%AD%E7%9A%84pytorch%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86)
+  - [1.代码展示](#1%E4%BB%A3%E7%A0%81%E5%B1%95%E7%A4%BA)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 baseline中的pytorch相关知识
 ==================================
 
@@ -49,10 +58,7 @@ good_index = np.setdiff1d(query_index, camera_index, assume_unique=True)#在quer
 cmc[rows_good[0]:] = 1#精妙：第一个good之后的所有cmc都设置为1   
 ```
 
-* 量入为出
-* 拾金不昧
-1. 三人行
-    - 三人行（四个空格
-    - 六人行
-2. 必有我师
+# md生成目录的方法
+* doctoc demo.md
+
 
