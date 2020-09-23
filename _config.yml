@@ -6,12 +6,11 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Maggie's blog!
-description: Happy coding !Happy living!
+title: 学不可以已
+description: 学无止境
 github_username: Maggie94413
 
 # Email and twitter are optional:
-email:maggie94@126.com
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
